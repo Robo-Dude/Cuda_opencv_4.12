@@ -5,6 +5,7 @@ This guide explains how to compile and install OpenCV 4.12 from source with CUDA
 Tested on: NVIDIA RTX 3050 GPU.
 
 ## 1. Install Dependencies
+```
   sudo apt-get install -y cmake
   sudo apt-get install -y libjpeg-dev libjpeg8-dev libjpeg-turbo8-dev
   sudo apt-get install -y libpng-dev libtiff-dev libglew-dev
